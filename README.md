@@ -8,5 +8,4 @@ AndresQuinto / 18288
 
 Como correr: Descargar repo .zip o rar, descomprimir y correr el raytracer.py
 
-![](out.bmp)
 
